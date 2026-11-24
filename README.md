@@ -13,7 +13,7 @@ Once you have run the project, the measured numbers are in `results/RESULTS.md` 
 ## Quick start (no GPU needed on your own computer)
 
 1. Open the notebook in Google Colab:
-   **https://colab.research.google.com/github/TejusDHegde/pc-project/blob/claude/cuda-vector-addition-ai-4t14v6/CUDA_Vector_Add_AI.ipynb**
+   **https://colab.research.google.com/github/TejusDHegde/pc-project/blob/main/CUDA_Vector_Add_AI.ipynb**
    If that link doesn't open, go to colab.research.google.com, choose **File → Upload notebook** and upload `CUDA_Vector_Add_AI.ipynb` from this repository.
 2. Choose **Runtime → Change runtime type → T4 GPU**.
 3. Choose **Runtime → Run all**. It takes about 5 minutes. The last cell downloads `results.zip`.
